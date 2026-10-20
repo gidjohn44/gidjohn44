@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "login": "gidjohn44",
+  "seed": "#E5484D",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "stack",
+    "stats",
+    "streak",
+    "wave",
+    "projects",
+    "about",
+    "buttons"
+  ],
+  "hidden": [
+    "about",
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Gidjohn",
+    "subtitle": "I build interfaces and small useful tools.",
+    "typing": true,
+    "avatarShape": "pill",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Moscow / Russia"
+      },
+      {
+        "icon": "code",
+        "label": "Python · Rust ·  Kotlin · Lua"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly backend"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material Design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "brand:lua",
+            "label": "Lua"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:tiktok",
+        "url": "tiktok.com/@gidjohn4real"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true,
+    "shape": "soft"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
