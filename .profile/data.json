@@ -1,8 +1,8 @@
 {
- "key": "ab83f716",
+ "key": "c515095b",
  "stars": 0,
- "contributions": 8,
- "repos": 3,
+ "contributions": 6,
+ "repos": 2,
  "followers": 0,
  "languages": [
   [
@@ -97,7 +97,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 3,
     "day": 20,
     "today": true
    },
@@ -117,15 +117,6 @@
    "name": "gidjohn44",
    "url": "https://github.com/gidjohn44/gidjohn44",
    "text": "My GitHub profile",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "Astra.releases",
-   "url": "https://github.com/gidjohn44/Astra.releases",
-   "text": "",
    "fork": false,
    "stars": 0,
    "language": null,
